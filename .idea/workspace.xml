@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f9d0e3c-3b84-4147-89de-bc7cf9894e2e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zlbw23UXqpdW2TYB9xJpoteZd7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Static" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ALURA\Carreira_Python_Web\01_Flask_parte1_Crie_uma_webapp_com_Python3\jogoteca\Static" />
+      <recent name="D:\ALURA\Carreira_Python_Web\01_Flask_parte1_Crie_uma_webapp_com_Python3\jogoteca\uploads" />
+      <recent name="D:\ALURA\Carreira_Python_Web\01_Flask_parte1_Crie_uma_webapp_com_Python3\jogoteca" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ALURA\Carreira_Python_Web\01_Flask_parte1_Crie_uma_webapp_com_Python3\jogoteca\Static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.jogoteca (1)">
+    <configuration name="dao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jogoteca" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jogoteca (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jogoteca" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jogoteca.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jogoteca" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jogoteca" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\ALURA\Carreira_Python_Web\01_Flask_parte1_Crie_uma_webapp_com_Python3\jogoteca\jogoteca.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prepara_banco" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jogoteca" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prepara_banco.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jogoteca" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.jogoteca (1)" />
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.jogoteca" />
+        <item itemvalue="Python.dao" />
+        <item itemvalue="Python.prepara_banco" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f9d0e3c-3b84-4147-89de-bc7cf9894e2e" name="Default Changelist" comment="" />
+      <created>1585416862256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585416862256</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586027476029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.173.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586027476029" />
+    <state x="1985" y="-78" key="#prepara_banco" timestamp="1585660311235">
+      <screen x="1366" y="-174" width="1920" height="1040" />
+    </state>
+    <state x="1985" y="-78" key="#prepara_banco/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1585660311235" />
+    <state width="1899" height="439" key="GridCell.Tab.0.bottom" timestamp="1586032563150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1585510757745">
+      <screen x="1366" y="-174" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1585510757745" />
+    <state width="1899" height="439" key="GridCell.Tab.0.bottom/-1366.173.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586032563150" />
+    <state width="1899" height="439" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1586002599984" />
+    <state width="1339" height="267" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585664039270" />
+    <state width="1899" height="439" key="GridCell.Tab.0.center" timestamp="1586032563150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1585510757744">
+      <screen x="1366" y="-174" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center.inPresentationMode/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1585510757744" />
+    <state width="1899" height="439" key="GridCell.Tab.0.center/-1366.173.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586032563150" />
+    <state width="1899" height="439" key="GridCell.Tab.0.center/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1586002599983" />
+    <state width="1339" height="267" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585664039270" />
+    <state width="1899" height="439" key="GridCell.Tab.0.left" timestamp="1586032563150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1585510757744">
+      <screen x="1366" y="-174" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left.inPresentationMode/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1585510757744" />
+    <state width="1899" height="439" key="GridCell.Tab.0.left/-1366.173.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586032563150" />
+    <state width="1899" height="439" key="GridCell.Tab.0.left/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1586002599983" />
+    <state width="1339" height="267" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585664039270" />
+    <state width="1899" height="439" key="GridCell.Tab.0.right" timestamp="1586032563150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1585510757744">
+      <screen x="1366" y="-174" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right.inPresentationMode/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1585510757744" />
+    <state width="1899" height="439" key="GridCell.Tab.0.right/-1366.173.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586032563150" />
+    <state width="1899" height="439" key="GridCell.Tab.0.right/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1586002599983" />
+    <state width="1339" height="267" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585664039270" />
+    <state x="1366" y="-174" key="SettingsEditor" timestamp="1585704708511">
+      <screen x="1366" y="-174" width="1920" height="1040" />
+    </state>
+    <state x="1366" y="-174" key="SettingsEditor/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1585704708511" />
+    <state x="1989" y="51" width="672" height="678" key="search.everywhere.popup" timestamp="1585950128446">
+      <screen x="1366" y="-174" width="1920" height="1040" />
+    </state>
+    <state x="1989" y="51" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1585950128446" />
+  </component>
+</project>
